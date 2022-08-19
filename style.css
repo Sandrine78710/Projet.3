@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&family=Shrikhand&display=swap');
+
+Body 
+{
+	margin: auto;
+ 	font-family: "Roboto", sans-serif;
+}
+
+.header_logo
+{
+	background-color: white;
+}
+
+.logo_img
+{
+	width: 180px;
+	margin: 10px;
+	margin-top: 15px;
+}
+
+
+
+h1
+{
+	font-family: 'Shrikhand', cursif;
+	font weight: bold;
+}
+
+header img 
+{
+	align-items: center;
+}
+
+#bouton_explorer
+{
+	color: white;
+	background-color: #9356DC;
+}
+
+
+
+
+footer h2
+{
+	font-family: 'Shrikhand', cursif;
+}
